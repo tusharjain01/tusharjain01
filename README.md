@@ -1,12 +1,13 @@
 ### Hi there 👋👋
+<link rel="stylesheet" href="dist/css/social-sharing.css">
 
 - 🔭 I’m currently working on <a href = "https://github.com/tusharjain01/SortingAlgorithms">Sorting Algorithms</a>
 - 🌱 I’m currently learning *Data Structure and Algorithms*.
 - 🤔 I’m looking for help with learning git commands.
 - 📫 How to reach me: 
-<a href="https://github.com/tusharjain01?tab=repositories"> <img height="40" src="github2.png"></a> 
-<a href="https://www.instagram.com/itsmetusharjain/"> <img height ="30" src= "Instagram.png"></a>
-<a href="https://twitter.com/iamtusharjain1"> <img height = "35" src="Twitter.png"></a> 
+<a class = "btn-tweet" href="https://github.com/tusharjain01?tab=repositories"> Twitter</a> 
+<a class = "btn-instagram" href="https://www.instagram.com/itsmetusharjain/">Instagram</a>
+<a class = "btn-twitter"href="https://twitter.com/iamtusharjain1">Twitter</a> 
 - 😄 Pronouns: He/His 👦
 
 | Serial no | Project |
