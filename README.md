@@ -20,5 +20,6 @@
 | 1 | <a href = "https://github.com/tusharjain01/DynamicProgramming"> Dynamic Programming </a> |
 | 2 | <a href = "https://github.com/tusharjain01/Java-Files"> Java Files </a> |
 | 3 | <a href = "https://github.com/tusharjain01/SortingAlgorithms"> Sorting algorithms </a> | 
+| 4 | <a href = "https://github.com/tusharjain01/linearDataStructure"> Linear Data Structures</a> |
 
 
