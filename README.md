@@ -18,7 +18,6 @@
 <p align="left">
 <a href="https://twitter.com/iamtusharjain1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamtusharjain1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/tjtusharjain0107/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tjtusharjain0107/" height="30" width="40" /></a>
-
 <a href="https://www.codechef.com/users/tushar_jain01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tushar_jain01" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/tusharjain2016" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tusharjain2016" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/tusharjain2016" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tusharjain2016" height="30" width="40" /></a>
