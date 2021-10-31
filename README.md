@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tusharjain01" alt="tusharjain01" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/iamtusharjain1" target="blank"><img src="https://img.shields.io/twitter/follow/iamtusharjain1?logo=twitter&style=for-the-badge" alt="sanikaa_21" /></a> </p>
+<p align="left"> <a href="https://twitter.com/maitushar" target="blank"><img src="https://img.shields.io/twitter/follow/maitushar?logo=twitter&style=for-the-badge" alt="maitushar" /></a> </p>
 
 - 🌱 I'm currently learning **C++ , DS/Algo**
 
