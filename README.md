@@ -17,7 +17,7 @@
 
 -   🔭 I’m currently working on various projects and research papers :grin:
 -   👯 I’m looking to collaborate with other Developers :wink:
--   🥅 2021 Goals: Contribute to Open Source projects and Try out Competitive Coding
+-   🥅 2022 Goals: Contribute to Open Source projects and Try out Competitive Coding
 -   💬 Ask me about anything, I am happy to help :smile:
 -   🧗 I try to: Go beyond and push my limits
 -   ⚡ Fun fact: I love connecting with different people :raised_hands:
