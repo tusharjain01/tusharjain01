@@ -11,7 +11,7 @@
 </p>
 <br>
 
-<p align="center"> <a href="https://twitter.com/maitushar" target="blank"><img src="https://img.shields.io/twitter/follow/maitushar?logo=twitter&style=for-the-badge" alt="maitushar" /></a> </p>
+<p align="center"> <a href="https://twitter.com/tushar2jain" target="blank"><img src="https://img.shields.io/twitter/follow/maitushar?logo=twitter&style=for-the-badge" alt="maitushar" /></a> </p>
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
