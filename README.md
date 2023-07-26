@@ -2,6 +2,7 @@
 <h3 align = "center">A passionate Frontend Developer and an Open source enthusiast</h3>
 <img align="right" height="320px" alt="GIF" src="images/Boy Coding.png" />
 
+
 -   🔭 I’m currently working on various frontend projects.
 -   👯 I’m looking to collaborate with other Developers :wink:
 -   🤔 I'm looking for help with JavaScript.
@@ -9,7 +10,7 @@
 -   🧗 I try to: Go beyond and push my limits
 -   ⚡ Fun fact: I love connecting with different people :raised_hands:
 
-<h2>⚡Technologies:</h2>
+## ⚡Technologies:
 
 ### Language :
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=openjdk)
@@ -32,14 +33,14 @@
 <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
 
 
-<img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=tusharjain01&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Tushar's Github Stats" width="50%">
-
-<img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=tusharjain01&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Tushar's Top Languages">
 
 <p align="center">
 <br>
-<a href="https://www.linkedin.com/in/tjtusharjain0107/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="https://www.instagram.com/tushar2jain/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
-<a href="mailto:tusharjain2016@outlook.com?subject=Hi%20Tushar"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"/></a>&nbsp;
+<a href="https://github.com/tusharjain01/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tusharjain01" />
+</a>
+<a href="https://github.com/tusharjain01">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tusharjain01&layout=compact&langs_count=8&card_width=320" />
+</a>
 </p>
 <br>
