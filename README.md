@@ -31,16 +31,4 @@
 <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design%20-%230081CB.svg?logo=material-design&logoColor=white"></a>
 <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
 <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
-
-
-
-<p align="center">
-<br>
-<a href="https://github.com/tusharjain01/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tusharjain01" />
-</a>
-<a href="https://github.com/tusharjain01">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tusharjain01&layout=compact&langs_count=8&card_width=320" />
-</a>
-</p>
 <br>
